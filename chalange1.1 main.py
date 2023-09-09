@@ -13,4 +13,3 @@ print ("Factorial of", num, "is",
       factorial(num))
   
 # This code is contributed
-# by Smitha Dinesh Semwal.
